@@ -22,7 +22,7 @@ export default class Skills extends React.Component{
           </div>
         </div>
         <div>
-          <center><h3 className="text-white">Through our research it was revealed that the best way to build a meaningful connection between artists was for artists to work together. It was also apparent that new collaborations are something desirably by musicians as well as fans.</h3></center>
+          <center><h3 className="text-white">Through our research, it was revealed that the best way to build a meaningful connection between artists was for artists to work together. It was also apparent that new collaborations are something desirable by musicians as well as fans.</h3></center>
         </div>
       </div>
     )
