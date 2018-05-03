@@ -1,7 +1,9 @@
 {
   "main.css": "static/css/main.fd9d5546.css",
   "main.css.map": "static/css/main.fd9d5546.css.map",
-  "main.js": "static/js/main.6149d1ad.js",
-  "main.js.map": "static/js/main.6149d1ad.js.map",
-  "static/media/musicHeader.jpg": "static/media/musicHeader.1cf954e9.jpg"
+  "main.js": "static/js/main.ea08435c.js",
+  "main.js.map": "static/js/main.ea08435c.js.map",
+  "static/media/bar.png": "static/media/bar.1006a06d.png",
+  "static/media/musicHeader.jpg": "static/media/musicHeader.1cf954e9.jpg",
+  "static/media/pie.png": "static/media/pie.cf40bab3.png"
 }
