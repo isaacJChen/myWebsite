@@ -12,10 +12,12 @@ export default class MainPageContent extends React.Component{
       <div>
         <Bio/>
         <Skills/>
-        <center>
-          <img src={pie} alt="pie chart"/>
-          <img src={bar} alt="bar chart"/>
-        </center>
+        <div>
+          <center>
+            <img width="100%" height="100%" src={pie} alt="pie chart"/>
+            <img width="100%" height="100%" src={bar} alt="bar chart"/>
+          </center>
+        </div>
         <ScreenShots/>
       </div>
     )
