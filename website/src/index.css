@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.mainHeader {
+  background-image: linear-gradient(to right, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(img/musicHeader.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 30rem;
+  text-align: center;
+}
+
+.projects {
+  background-color: rgb(0, 50, 100);
+}
+
+#navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width: 100vw;
+}
+
+#headerText {
+  padding-top: 5rem;
+}
+
+@media (min-width: 690px) {
+  #headerText {
+    padding-top: 12rem;
+  }
+}
