@@ -1,9 +1,14 @@
 {
   "main.css": "static/css/main.fd9d5546.css",
   "main.css.map": "static/css/main.fd9d5546.css.map",
-  "main.js": "static/js/main.ea08435c.js",
-  "main.js.map": "static/js/main.ea08435c.js.map",
+  "main.js": "static/js/main.8ae53051.js",
+  "main.js.map": "static/js/main.8ae53051.js.map",
   "static/media/bar.png": "static/media/bar.1006a06d.png",
+  "static/media/collection.png": "static/media/collection.72966ab6.png",
+  "static/media/explore.png": "static/media/explore.69e02e9c.png",
+  "static/media/feed.png": "static/media/feed.8cafcf85.png",
   "static/media/musicHeader.jpg": "static/media/musicHeader.1cf954e9.jpg",
-  "static/media/pie.png": "static/media/pie.cf40bab3.png"
+  "static/media/pie.png": "static/media/pie.cf40bab3.png",
+  "static/media/profile.png": "static/media/profile.6d50ee97.png",
+  "static/media/sd.png": "static/media/sd.ffe25b6e.png"
 }
