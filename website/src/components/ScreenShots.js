@@ -6,6 +6,7 @@ import explore from '../img/explore.png'
 import collection from '../img/collection.png'
 
 export default class ScreenShots extends React.Component{
+  //commetn
   render() {
     return(
       <div className="pt-4">
