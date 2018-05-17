@@ -18,7 +18,7 @@ export default class ScreenShots extends React.Component{
         <div className= "">
           <div className="container">
             <div className='py-5' width='100%'>
-              <div className="d-flex flex-row">
+              <div className="d-flex flex-row justify-content-between flex-wrap">
                 <img className="mx-4" width="15%" height="15%" src={feed} alt="pie chart"/>
                 <img className="mx-4" width="15%" height="15%" src={sd} alt="pie chart"/>
                 <img className="mx-4" width="15%" height="15%" src={profile} alt="pie chart"/>
