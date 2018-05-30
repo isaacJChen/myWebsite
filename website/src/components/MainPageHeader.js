@@ -7,7 +7,7 @@ export default class MainPageHeader extends React.Component{
       <div className="mainHeader m-0 justified">
 
           <img width="200px" height="200px" src={tile} alt="logo"/>
-          <h3 id="headerText" className="text-light m-0 p-0">Evolve the Worlds Music</h3>
+          <h3 id="headerText" className="text-light m-0 p-0">Unite Indie Artists for Social Music Creation</h3>
           <div className="d-flex flex-row justify-content-center">
             <h5 className="text-light m-5 p-0">Isaac Chen</h5>
             <h5 className="text-light m-5 p-0">Jared Praino</h5>
